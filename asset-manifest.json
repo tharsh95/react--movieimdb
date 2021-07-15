@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react--movieimdb/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react--movieimdb/static/js/main.30d52900.chunk.js",
+    "main.js.map": "/react--movieimdb/static/js/main.30d52900.chunk.js.map",
+    "runtime-main.js": "/react--movieimdb/static/js/runtime-main.fe2dc2ac.js",
+    "runtime-main.js.map": "/react--movieimdb/static/js/runtime-main.fe2dc2ac.js.map",
+    "static/js/2.ed2b2692.chunk.js": "/react--movieimdb/static/js/2.ed2b2692.chunk.js",
+    "static/js/2.ed2b2692.chunk.js.map": "/react--movieimdb/static/js/2.ed2b2692.chunk.js.map",
+    "index.html": "/react--movieimdb/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react--movieimdb/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ed2b2692.chunk.js.LICENSE.txt": "/react--movieimdb/static/js/2.ed2b2692.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe2dc2ac.js",
+    "static/js/2.ed2b2692.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.30d52900.chunk.js"
+  ]
+}
