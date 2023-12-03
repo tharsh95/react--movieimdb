@@ -94,7 +94,7 @@ function App() {
     <Container>
       <Header>
         <AppName>
-          <MovieImage src="/react-movie-app/movie-icon.svg" />
+          <MovieImage src="/react-movie-app/imdb-icon.svg" />
           React Movie App
         </AppName>
         <SearchBox>
@@ -117,7 +117,7 @@ function App() {
             />
           ))
         ) : (
-          <Placeholder src="/react-movie-app/movie-icon.svg" />
+          <Placeholder src="/react-movie-app/imdb-icon.svg" />
         )}
       </MovieListContainer>
     </Container>
